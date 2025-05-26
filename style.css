@@ -26,10 +26,10 @@ video {
     object-fit: cover;
     left: 0;
     right: 0;
-    top: -24px;
+    top: -29px;
     bottom: 0;
     z-index: -10;
-    opacity: 0px;
+    opacity: 1;
     
 }
 
